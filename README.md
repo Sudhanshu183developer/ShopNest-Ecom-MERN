@@ -9,7 +9,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Razorpay](https://img.shields.io/badge/Payments-Razorpay-0C2451)](https://razorpay.com)
 
-[Live Demo](https://shopnest-ecom-mern-avqh.onrender.com/) · [Report Bug](#) · [Postman Collection](./ShopNest_Postman_Collection.json)
+[Live Demo](https://shopnest-ecom-mern-avqh.onrender.com/) · [Postman Collection](./ShopNest_Postman_Collection.json)
 
 </div>
 
